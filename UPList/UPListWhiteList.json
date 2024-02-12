@@ -4,6 +4,10 @@
     "ip": ["153.36.240.58"]
   },
   {
+    "server":"风殇",
+    "ip":["111.229.209.155","49.74.12.132"]
+  },
+  {
     "server": "Here is your server name",
     "ip": ["Here is your IP-1", "Here is your IP-2"]
   }
